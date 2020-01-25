@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	MouseX
 %define	pnam	Types
 Summary:	MouseX::Types - Organize your Mouse types in libraries
