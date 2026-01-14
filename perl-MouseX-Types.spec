@@ -8,7 +8,7 @@ Summary:	MouseX::Types - Organize your Mouse types in libraries
 Summary(pl.UTF-8):	MouseX::Types - Porządkuje typy Mouse w biblioteki
 Name:		perl-MouseX-Types
 Version:	0.02
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/CPAN/authors/id/Y/YA/YAPPO/%{pdir}-%{pnam}-%{version}.tar.gz
